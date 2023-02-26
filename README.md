@@ -4,7 +4,7 @@
 ------------
 By Javier Cuesta
 
-![RTracerDRRGenerator](demo/mainDrr.png)
+![RTracerDRRGenerator](demo/mainDRR.png)
 
 The main goal of this project was to build a *physically-based* renderer that reconstructs digital radiographs in *real time*. The renderer produces radiographs at a rate of 60 Hertz without sacrificing precision in the physics simulation. Furthermore, it considers the exact radiological path of the x-ray source to make the renderer faithful to the physics process of radiograph generation.
 
